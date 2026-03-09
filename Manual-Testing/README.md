@@ -7,4 +7,4 @@ Scope:
 - User Registration
 - User Login
 
-Test cases and bug reports will be added here.
+Test cases and bug reports will be added in this folder.
