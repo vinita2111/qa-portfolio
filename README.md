@@ -1,19 +1,19 @@
 # QA Portfolio – Vinita Singh
 
-Welcome to my QA testing portfolio.
+Welcome to my QA portfolio.
 
-This repository contains my hands-on practice projects in:
+I am a QA Engineer with 4+ years of IT experience, specializing in:
 
 - Manual Testing
+- Functional, Regression, and Smoke Testing
 - API Testing using Postman
-- Test Case Design
-- Bug Reporting
 - Basic SQL Validation
+- Test Case Design and Bug Reporting
 
-I have 4+ years of IT experience and recently refreshed my skills in QA and API testing.
+This repository contains hands-on practice projects demonstrating my QA skills.
 
 ## Projects Included
-- Manual Testing of E-commerce Application
-- REST API Testing using Postman
+- Manual Testing – OpenCart Demo Application
+- API Testing – ReqRes REST API
 
 Thank you for reviewing my work.
