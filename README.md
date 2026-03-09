@@ -17,6 +17,3 @@ I have 4+ years of IT experience and recently refreshed my skills in QA and API 
 - REST API Testing using Postman
 
 Thank you for reviewing my work.
-
-
-Thank you for reviewing my work.
