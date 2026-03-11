@@ -156,3 +156,60 @@ Steps:
 
 Expected Result:
 Cart should show the product with updated quantity.
+
+# OpenCart – Remove Product From Cart Test Cases
+
+Application URL:
+https://demo.opencart.com
+
+---
+
+## Test Case 1: Remove Product From Cart
+
+Test Case ID: TC_Cart_004  
+Description: Verify user can remove a product from the shopping cart  
+
+Precondition:
+Product is already added to the cart.
+
+Steps:
+1. Navigate to the Shopping Cart page  
+2. Locate the added product  
+3. Click the "Remove" or "Delete" icon next to the product  
+
+Expected Result:
+Product should be removed from the shopping cart and cart should update.
+
+---
+
+## Test Case 2: Remove Product When Multiple Items Exist
+
+Test Case ID: TC_Cart_005  
+Description: Verify user can remove one product when multiple products are in cart  
+
+Precondition:
+Multiple products are added to the cart.
+
+Steps:
+1. Navigate to Shopping Cart page  
+2. Click remove icon for one product  
+
+Expected Result:
+Selected product should be removed while other products remain in the cart.
+
+---
+
+## Test Case 3: Cart Empty After Removing Last Product
+
+Test Case ID: TC_Cart_006  
+Description: Verify cart shows empty message after removing last product  
+
+Precondition:
+Only one product is present in the cart.
+
+Steps:
+1. Navigate to Shopping Cart  
+2. Click remove icon for the product  
+
+Expected Result:
+Cart should show message like “Your shopping cart is empty”.
