@@ -51,6 +51,7 @@ Steps:
 
 Expected Result:  
 Validation messages should appear for all mandatory fields.
+
 # OpenCart – Login Functionality Test Cases
 
 Application URL:
@@ -104,3 +105,54 @@ Steps:
 
 Expected Result:
 Validation message should be displayed.
+
+# OpenCart – Add to Cart Functionality Test Cases
+
+Application URL:
+https://demo.opencart.com
+
+---
+
+## Test Case 1: Add Product to Cart
+
+Test Case ID: TC_Cart_001  
+Description: Verify user can add a product to the cart  
+
+Steps:
+1. Navigate to Home page  
+2. Select any product  
+3. Click "Add to Cart" button  
+
+Expected Result:
+Product should be successfully added to the shopping cart and cart count should update.
+
+---
+
+## Test Case 2: Add Multiple Products to Cart
+
+Test Case ID: TC_Cart_002  
+Description: Verify user can add multiple products to the cart  
+
+Steps:
+1. Navigate to Home page  
+2. Select first product and click "Add to Cart"  
+3. Select another product  
+4. Click "Add to Cart"  
+
+Expected Result:
+Both products should appear in the shopping cart.
+
+---
+
+## Test Case 3: Add Same Product Multiple Times
+
+Test Case ID: TC_Cart_003  
+Description: Verify cart updates quantity when same product is added again  
+
+Steps:
+1. Navigate to Home page  
+2. Select a product  
+3. Click "Add to Cart" twice  
+
+Expected Result:
+Cart should show the product with updated quantity.
