@@ -1,0 +1,58 @@
+{
+	"id": "83b1be6b-1330-4a25-84a4-d5f9e5e174b4",
+	"name": "ReqRes-env",
+	"values": [
+		{
+			"key": "base_url",
+			"value": "reqres.in",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "userId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "resourceName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "userId2",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "singleUserName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "singleResourceName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "base_url_trello",
+			"value": "https://api.trello.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "reqres_560b44cf9dcc4c54953f82b2d4550594",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-03-17T18:31:20.731Z",
+	"_postman_exported_using": "Postman/12.2.1-260317-0231"
+}
