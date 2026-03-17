@@ -49,5 +49,5 @@ The collection demonstrates **basic CRUD operations**, testing both GET and POST
 ---
 
 ## Author
-**Your Name** – QA Engineer / Automation Enthusiast  
-[GitHub Profile](https://github.com/yourusername)
+**VINITA SINGH** – QA Engineer / Automation Enthusiast  
+[GitHub Profile](https://github.com/vinita2111)
