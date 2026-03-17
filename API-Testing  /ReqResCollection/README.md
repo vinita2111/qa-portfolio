@@ -13,13 +13,13 @@ The collection demonstrates **basic CRUD operations**, testing both GET and POST
 | `ReqResCollection.json` | Postman collection containing all API requests |
 | `ReqResEnvironment.json` | Postman environment file with variables (base URL, API key, etc.) |
 | `README.md` | This file, explaining the project |
-| OptionaljavaScripts/ | (Optional) javascripts for automating API tests |
+|javaScripts/ |  javascripts for automating API tests |
 
 ---
 
 ## Tools Used
 - [Postman](https://www.postman.com/) – for API testing  
-- (Optional) javascripts – for automated API testing  
+- **JavaScript** – Used in Postman for automation scripts (Pre-request & Test scripts)  
 
 ---
 
